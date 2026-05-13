@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026051221130879QADD</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260512211308P06QZM</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>EL SUELO Y SUS PROPIEDADES</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>FUNDAMENTOS AGRONÓMICOS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>SARA SANZ RODRÍGUEZ</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778613180112</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp30d4zh-ozz35fk0a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp30d4zh-ozz35fk0a</odePageId>
+      <odeBlockId>block-1778516966266-v0lxiplsa</odeBlockId>
+      <blockName>¿QUÉ VOY A APRENDER?</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp30d4zh-ozz35fk0a</odePageId>
+          <odeBlockId>block-1778516966266-v0lxiplsa</odeBlockId>
+          <odeIdeviceId>idevice-1778516966263-t7jrml90o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. ¿Qué es el suelo?</strong><br />● El suelo es la capa superficial de la tierra donde crecen las plantas.<br />● Es como “la casa” de las plantas: les da sostén, nutrientes y agua.<br />● Está formado por varios componentes:<br />○ Materia mineral: arena, limo y arcilla.<br />○ Materia orgánica: restos de plantas y animales en descomposición.<br />○ Agua y aire: esenciales para que las raíces respiren y absorban nutrientes.</p>
+<p><strong>2. Propiedades físicas del suelo</strong><br />Estas propiedades afectan cómo crecen las plantas:<br /><em>1. Textura</em><br />○ Depende del tamaño de las partículas: arena (grande), limo (mediano), arcilla<br />(pequeño).<br />○ Influye en la retención de agua y aireación.<br />○ Ejemplo: suelos arenosos drenan rápido, suelos arcillosos retienen agua.</p>
+<p><br /><em>2. Estructura</em><br />○ Cómo se agrupan las partículas.<br />○ Suelos sueltos permiten que las raíces crezcan mejor; suelos compactos<br />dificultan la penetración de raíces.</p>
+<p><em>3. Color</em><br />○ Indica la materia orgánica y la presencia de minerales.<br />○ Suelos oscuros suelen ser más fértiles.</p>
+<p><br /><em>4. Densidad y porosidad</em><br />○ Poros = espacios entre partículas.<br />○ Ayudan a que el agua y el aire circulen.</p>
+<p><strong>3. Propiedades químicas del suelo</strong></p>
+<p>● Determinan qué nutrientes están disponibles para las plantas.<br /><em>1. pH</em><br />○ Mide si el suelo es ácido, neutro o básico.<br />○ La mayoría de las plantas crecen mejor en suelos ligeramente ácidos a<br />neutros (pH 6-7).<br /><em>2. Nutrientes esenciales</em><br />○ Macronutrientes: nitrógeno (N), fósforo (P), potasio (K).<br />○ Micronutrientes: hierro, zinc, cobre, etc.</p>
+<p><strong>4. Propiedades biológicas del suelo</strong><br />● Contiene microorganismos que descomponen materia orgánica y ayudan a las<br />plantas a absorber nutrientes.<br />● Los lombrices y hongos son aliados de la jardinería: airean y fertilizan el suelo<br />naturalmente.</p>
+<p><br /><strong>5. Por qué es importante conocer el suelo</strong><br />● Ayuda a elegir qué plantas plantar y dónde.<br />● Permite mejorar el suelo con abonos, compost o arenas según lo que necesite.<br />● Evita problemas de riego, enfermedades o crecimiento débil.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778516966263-t7jrml90o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. ¿Qué es el suelo?</strong><br />● El suelo es la capa superficial de la tierra donde crecen las plantas.<br />● Es como “la casa” de las plantas: les da sostén, nutrientes y agua.<br />● Está formado por varios componentes:<br />○ Materia mineral: arena, limo y arcilla.<br />○ Materia orgánica: restos de plantas y animales en descomposición.<br />○ Agua y aire: esenciales para que las raíces respiren y absorban nutrientes.</p>\n<p><strong>2. Propiedades físicas del suelo</strong><br />Estas propiedades afectan cómo crecen las plantas:<br /><em>1. Textura</em><br />○ Depende del tamaño de las partículas: arena (grande), limo (mediano), arcilla<br />(pequeño).<br />○ Influye en la retención de agua y aireación.<br />○ Ejemplo: suelos arenosos drenan rápido, suelos arcillosos retienen agua.</p>\n<p><br /><em>2. Estructura</em><br />○ Cómo se agrupan las partículas.<br />○ Suelos sueltos permiten que las raíces crezcan mejor; suelos compactos<br />dificultan la penetración de raíces.</p>\n<p><em>3. Color</em><br />○ Indica la materia orgánica y la presencia de minerales.<br />○ Suelos oscuros suelen ser más fértiles.</p>\n<p><br /><em>4. Densidad y porosidad</em><br />○ Poros = espacios entre partículas.<br />○ Ayudan a que el agua y el aire circulen.</p>\n<p><strong>3. Propiedades químicas del suelo</strong></p>\n<p>● Determinan qué nutrientes están disponibles para las plantas.<br /><em>1. pH</em><br />○ Mide si el suelo es ácido, neutro o básico.<br />○ La mayoría de las plantas crecen mejor en suelos ligeramente ácidos a<br />neutros (pH 6-7).<br /><em>2. Nutrientes esenciales</em><br />○ Macronutrientes: nitrógeno (N), fósforo (P), potasio (K).<br />○ Micronutrientes: hierro, zinc, cobre, etc.</p>\n<p><strong>4. Propiedades biológicas del suelo</strong><br />● Contiene microorganismos que descomponen materia orgánica y ayudan a las<br />plantas a absorber nutrientes.<br />● Los lombrices y hongos son aliados de la jardinería: airean y fertilizan el suelo<br />naturalmente.</p>\n<p><br /><strong>5. Por qué es importante conocer el suelo</strong><br />● Ayuda a elegir qué plantas plantar y dónde.<br />● Permite mejorar el suelo con abonos, compost o arenas según lo que necesite.<br />● Evita problemas de riego, enfermedades o crecimiento débil.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp30d4zm-2rfg6uu60</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INFORMACIÓN PROTECCIÓN DE DATOS</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INFORMACIÓN PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INFORMACIÓN PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp30d4zm-2rfg6uu60</odePageId>
+      <odeBlockId>block-1778522125879-0u7d04bdy</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp30d4zm-2rfg6uu60</odePageId>
+          <odeBlockId>block-1778522125879-0u7d04bdy</odeBlockId>
+          <odeIdeviceId>idevice-1778522125877-ck5mrmz4b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/FUNDAMENTOS AGRONÓMICOS EL SUELO Y SUS PROPIEDADES.jpg" title="Protección de datos" width="800" height="2000" alt="Canva" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778522125877-ck5mrmz4b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/FUNDAMENTOS AGRONÓMICOS EL SUELO Y SUS PROPIEDADES.jpg\" title=\"Protección de datos\" width=\"800\" height=\"2000\" alt=\"Canva\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp30d4zm-2rfg6uu60</odePageId>
+      <odeBlockId>block-1778522574397-mmpyws6p2</odeBlockId>
+      <blockName>TAREAS ASOCIADAS A CRITERIOS DE EVALUACIÓN</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp30d4zm-2rfg6uu60</odePageId>
+          <odeBlockId>block-1778522574397-mmpyws6p2</odeBlockId>
+          <odeIdeviceId>idevice-1778522574393-p2vqfckjz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">   A continuación adjunto un cuadro resumen con todas las tareas, el criterio de evaluación, el agrupamiento para llevarla a cabo, el tiempo aproximado y la herramienta que aconsejo para llevarla a cabo.</p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/TAREAS ASOCIADAS A CE_page-0001.jpg" title="001" width="1234" height="873" alt="TAREAS/CE" /></p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/TAREAS ASOCIADAS A CE_page-0002.jpg" title="002" width="1234" height="873" alt="TAREAS2" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778522574393-p2vqfckjz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">   A continuación adjunto un cuadro resumen con todas las tareas, el criterio de evaluación, el agrupamiento para llevarla a cabo, el tiempo aproximado y la herramienta que aconsejo para llevarla a cabo.</p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/TAREAS ASOCIADAS A CE_page-0001.jpg\" title=\"001\" width=\"1234\" height=\"873\" alt=\"TAREAS/CE\" /></p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/TAREAS ASOCIADAS A CE_page-0002.jpg\" title=\"002\" width=\"1234\" height=\"873\" alt=\"TAREAS2\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp30d4zm-2rfg6uu60</odePageId>
+      <odeBlockId>block-1778524796753-8i2wi3gb6</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp30d4zm-2rfg6uu60</odePageId>
+          <odeBlockId>block-1778524796753-8i2wi3gb6</odeBlockId>
+          <odeIdeviceId>idevice-1778524796748-8l25cgze0</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1778524796748-8l25cgze0%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Conocimiento%20del%20suelo%20%28propiedades%20f%EDsicas%2C%20qu%EDmicas%20y%20biol%F3gicas%29%22%2C%22Muestreo%20del%20suelo%22%2C%22T%E9cnicas%20anal%EDticas%22%2C%22Preparaci%F3n%20de%20muestras%22%2C%22An%E1lisis%20del%20suelo%22%5D%2C%22scores%22%3A%5B%224%22%2C%223%22%2C%222%22%2C%221%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Explica%20con%20precisi%F3n%20y%20profundidad%20todas%20las%20propiedades%2C%20usando%20vocabulario%20t%E9cnico%20adecuado%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Explica%20correctamente%20la%20mayor%EDa%20de%20propiedades%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Explica%20algunas%20propiedades%20con%20errores%20o%20poca%20claridad%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Presenta%20grandes%20errores%20o%20desconocimiento%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Aplica%20correctamente%20las%20t%E9cnicas%20de%20recogida%20y%20acondicionamiento%20de%20muestras%20de%20forma%20aut%F3noma%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Aplica%20las%20t%E9cnicas%20con%20peque%F1as%20dudas%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Aplica%20las%20t%E9cnicas%20con%20ayuda%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20aplica%20correctamente%20las%20t%E9cnicas%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Identifica%20y%20comprende%20todas%20las%20t%E9cnicas%20anal%EDticas%20utilizadas%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Reconoce%20la%20mayor%EDa%20de%20las%20t%E9cnicas%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Descriptor%20%283.3%29%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Descriptor%20%283.4%29%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Prepara%20las%20muestras%20correctamente%20y%20de%20forma%20aut%F3noma%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Prepara%20la%20muestra%20con%20peque%F1os%20errores%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Necesita%20ayuda%20para%20preparar%20la%20muestra%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20realiza%20correctamente%20la%20preparaci%F3n%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Realiza%20los%20an%E1lisis%20siguiendo%20correctamente%20todos%20los%20protocolos%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Realiza%20los%20an%E1lisis%20siguiendo%20correctamente%20todos%20los%20protocolos%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Realiza%20los%20an%E1lisis%20con%20ayuda%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20sigue%20los%20protocolos%20correctamente%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Conocimiento%20del%20suelo%20%28propiedades%20f%EDsicas%2C%20qu%EDmicas%20y%20biol%F3gicas%29%22%2C%22Muestreo%20del%20suelo%22%2C%22T%E9cnicas%20anal%EDticas%22%2C%22Preparaci%F3n%20de%20muestras%22%2C%22An%E1lisis%20del%20suelo%22%5D%2C%22scores%22%3A%5B%224%22%2C%223%22%2C%222%22%2C%221%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Explica%20con%20precisi%F3n%20y%20profundidad%20todas%20las%20propiedades%2C%20usando%20vocabulario%20t%E9cnico%20adecuado%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Explica%20correctamente%20la%20mayor%EDa%20de%20propiedades%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Explica%20algunas%20propiedades%20con%20errores%20o%20poca%20claridad%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Presenta%20grandes%20errores%20o%20desconocimiento%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Aplica%20correctamente%20las%20t%E9cnicas%20de%20recogida%20y%20acondicionamiento%20de%20muestras%20de%20forma%20aut%F3noma%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Aplica%20las%20t%E9cnicas%20con%20peque%F1as%20dudas%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Aplica%20las%20t%E9cnicas%20con%20ayuda%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20aplica%20correctamente%20las%20t%E9cnicas%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Identifica%20y%20comprende%20todas%20las%20t%E9cnicas%20anal%EDticas%20utilizadas%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Reconoce%20la%20mayor%EDa%20de%20las%20t%E9cnicas%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Descriptor%20%283.3%29%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Descriptor%20%283.4%29%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Prepara%20las%20muestras%20correctamente%20y%20de%20forma%20aut%F3noma%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Prepara%20la%20muestra%20con%20peque%F1os%20errores%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Necesita%20ayuda%20para%20preparar%20la%20muestra%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20realiza%20correctamente%20la%20preparaci%F3n%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Realiza%20los%20an%E1lisis%20siguiendo%20correctamente%20todos%20los%20protocolos%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Realiza%20los%20an%E1lisis%20siguiendo%20correctamente%20todos%20los%20protocolos%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Realiza%20los%20an%E1lisis%20con%20ayuda%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20sigue%20los%20protocolos%20correctamente%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22author%22%3A%22Sara%20Sanz%20Rodr%EDguez%22%2C%22license%22%3A%22CC-BY-NC%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><p class="exe-rubrics-authorship"><span class="author">Sara Sanz Rodríguez</span>. <span class="title"><em>Rúbrica de ejemplo (4x4)</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-NC">CC BY-NC</a>)</span></p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp30d4zq-eo128px1j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESCRIPCIÓN DEL PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp30d4zq-eo128px1j</odePageId>
+      <odeBlockId>block-1778518374926-kxlzebt1s</odeBlockId>
+      <blockName>GOOGLE CLASSROOM</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp30d4zq-eo128px1j</odePageId>
+          <odeBlockId>block-1778518374926-kxlzebt1s</odeBlockId>
+          <odeIdeviceId>idevice-1778518374924-ynu5v8ig3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La elección de Google Classroom como herramienta digital en este proyecto la justifico por su gran versatilidad y adecuación al contexto educativo del centro. El alumnado dispone de ordenadores portátiles, lo que facilita el acceso continuo a la plataforma y permite integrar el trabajo digital de forma natural en el aula. Además, al tratarse en su mayoría de alumnado mayor de edad que cursa un ciclo formativo, presentan un nivel de autonomía y competencia digital suficiente para gestionar tareas, entregar trabajos y comunicarse a través de entornos virtuales de aprendizaje.</p>
+<p>Google Classroom permite organizar contenidos, distribuir actividades, recoger el producto final y aplicar instrumentos de evaluación como rúbricas, favoreciendo un seguimiento individualizado. Asimismo, su uso contribuye al desarrollo de la competencia digital del alumnado en un entorno similar al que encontrarán en su futuro profesional.<br /> <br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778518374924-ynu5v8ig3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La elección de Google Classroom como herramienta digital en este proyecto la justifico por su gran versatilidad y adecuación al contexto educativo del centro. El alumnado dispone de ordenadores portátiles, lo que facilita el acceso continuo a la plataforma y permite integrar el trabajo digital de forma natural en el aula. Además, al tratarse en su mayoría de alumnado mayor de edad que cursa un ciclo formativo, presentan un nivel de autonomía y competencia digital suficiente para gestionar tareas, entregar trabajos y comunicarse a través de entornos virtuales de aprendizaje.</p>\n<p>Google Classroom permite organizar contenidos, distribuir actividades, recoger el producto final y aplicar instrumentos de evaluación como rúbricas, favoreciendo un seguimiento individualizado. Asimismo, su uso contribuye al desarrollo de la competencia digital del alumnado en un entorno similar al que encontrarán en su futuro profesional.<br /> <br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp30d4zs-7gl8vpok0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CLASS NOTES</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CLASS NOTES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CLASS NOTES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp30d4zs-7gl8vpok0</odePageId>
+      <odeBlockId>block-1778519072586-bljsdqc34</odeBlockId>
+      <blockName>MIS HERRAMIENTAS PARA LA GESTION DEL AULA</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp30d4zs-7gl8vpok0</odePageId>
+          <odeBlockId>block-1778519072586-bljsdqc34</odeBlockId>
+          <odeIdeviceId>idevice-1778519072583-wr381oi8x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>MIS HERRAMIENTAS PARA LA GESTION DEL AULA</strong><br /><strong><em>1. Wakelet</em> </strong>(MUY RECOMENDADA)<br />Perfecta para curación de contenidos educativa.</p>
+<p><strong><em>2. Symbaloo</em></strong><br />Muy visual y fácil de usar.</p>
+<p><strong><em>3. Notion</em></strong><br />Más avanzado, muy completo.</p>
+<p><strong><em>4. Pinterest </em></strong>(sí, también sirve)<br />Muy útil para inspiración visual.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778519072583-wr381oi8x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>MIS HERRAMIENTAS PARA LA GESTION DEL AULA</strong><br /><strong><em>1. Wakelet</em> </strong>(MUY RECOMENDADA)<br />Perfecta para curación de contenidos educativa.</p>\n<p><strong><em>2. Symbaloo</em></strong><br />Muy visual y fácil de usar.</p>\n<p><strong><em>3. Notion</em></strong><br />Más avanzado, muy completo.</p>\n<p><strong><em>4. Pinterest </em></strong>(sí, también sirve)<br />Muy útil para inspiración visual.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp30d4zu-ouzt96cpg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LÍNEA TEMPORAL PARA LA ORGANIZACIÓN</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL PARA LA ORGANIZACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL PARA LA ORGANIZACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp30d4zu-ouzt96cpg</odePageId>
+      <odeBlockId>block-1778519649149-961ggp3dn</odeBlockId>
+      <blockName>Mapa mental</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp30d4zu-ouzt96cpg</odePageId>
+          <odeBlockId>block-1778519649149-961ggp3dn</odeBlockId>
+          <odeIdeviceId>idevice-1778519649147-qwsjvhbki</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><em>Guía visual de la tarea que deben realizar el alumnado, la organización temporal, agrupamientos, herramientas que utilizarán de manera colaborativa, los espacios, los recursos técnicos, etc. </em></p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla de 2026-04-09 22-24-59.png" title="Línea del tiempo" width="1234" height="282" alt="Línea del tiempo" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778519649147-qwsjvhbki","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><em>Guía visual de la tarea que deben realizar el alumnado, la organización temporal, agrupamientos, herramientas que utilizarán de manera colaborativa, los espacios, los recursos técnicos, etc. </em></p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla de 2026-04-09 22-24-59.png\" title=\"Línea del tiempo\" width=\"1234\" height=\"282\" alt=\"Línea del tiempo\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp30d4zw-5akrc6rqq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp30d4zw-5akrc6rqq</odePageId>
+      <odeBlockId>block-1778528730153-m0tmvvp3c</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp30d4zw-5akrc6rqq</odePageId>
+          <odeBlockId>block-1778528730153-m0tmvvp3c</odeBlockId>
+          <odeIdeviceId>idevice-1778528730149-t9ajfyvtv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí os dejo información muy importante para la ejecución y éxito del proyecto de clase. ¡Ánimo!</p>
+<p><a href="{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf" title=" Asociamos tareas a Criterios de evaluación_.pdf">Guía didáctica</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778528730149-t9ajfyvtv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí os dejo información muy importante para la ejecución y éxito del proyecto de clase. ¡Ánimo!</p>\n<p><a href=\"{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf\" title=\" Asociamos tareas a Criterios de evaluación_.pdf\">Guía didáctica</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp30d4zx-g6l8kwixc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>NODO FINAL DE CRÉDITOS</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>NODO FINAL DE CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>NODO FINAL DE CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp30d4zx-g6l8kwixc</odePageId>
+      <odeBlockId>block-1778529055673-j0w8pinfe</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp30d4zx-g6l8kwixc</odePageId>
+          <odeBlockId>block-1778529055673-j0w8pinfe</odeBlockId>
+          <odeIdeviceId>idevice-1778529055671-zeztl1njy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Autoría</strong></em><br />Nombre de la autora: SARA SANZ RODRÍGUEZ<br />Centro: IES JOSÉ MARÍA INFANTES (UTRERA)<br />Correo electrónico: <a href="mailto:ssanrod283@g">ssanrod283@g</a>.educaand.es</p>
+<p> <br /><em><strong>Descripción del recurso</strong></em><br />Este recurso educativo ha sido elaborado mediante eXeLearning con fines didácticos.<br />El contenido está dirigido a 1º CICLO DE GRADO MEDIO, TÉCNICO EN JARDINERÍA Y FLORISTERÍA.</p>
+<p><br /><em><strong>Licencia de uso</strong></em><br />Este material se comparte bajo licencia:</p>
+<p>Creative Commons Reconocimiento – No Comercial – Compartir Igual 4.0 Internacional (CC BY-NC-SA 4.0)</p>
+<p>Se permite:</p>
+<p>Compartir el material.<br />Adaptarlo y reutilizarlo con fines no comerciales.<br />Mantener la misma licencia en las obras derivadas.<br />Más información sobre la licencia:</p>
+<p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es" title="Derechos de autor">Derechos de autor</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778529055671-zeztl1njy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Autoría</strong></em><br />Nombre de la autora: SARA SANZ RODRÍGUEZ<br />Centro: IES JOSÉ MARÍA INFANTES (UTRERA)<br />Correo electrónico: <a href=\"mailto:ssanrod283@g\">ssanrod283@g</a>.educaand.es</p>\n<p> <br /><em><strong>Descripción del recurso</strong></em><br />Este recurso educativo ha sido elaborado mediante eXeLearning con fines didácticos.<br />El contenido está dirigido a 1º CICLO DE GRADO MEDIO, TÉCNICO EN JARDINERÍA Y FLORISTERÍA.</p>\n<p><br /><em><strong>Licencia de uso</strong></em><br />Este material se comparte bajo licencia:</p>\n<p>Creative Commons Reconocimiento – No Comercial – Compartir Igual 4.0 Internacional (CC BY-NC-SA 4.0)</p>\n<p>Se permite:</p>\n<p>Compartir el material.<br />Adaptarlo y reutilizarlo con fines no comerciales.<br />Mantener la misma licencia en las obras derivadas.<br />Más información sobre la licencia:</p>\n<p><a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es\" title=\"Derechos de autor\">Derechos de autor</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp30d4zx-g6l8kwixc</odePageId>
+      <odeBlockId>block-1778612656276-wgq2zu2gf</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp30d4zx-g6l8kwixc</odePageId>
+          <odeBlockId>block-1778612656276-wgq2zu2gf</odeBlockId>
+          <odeIdeviceId>idevice-1778612656274-nbjugto4t</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">EL SUELO Y SUS PROPIEDADES</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">SARA SANZ RODRÍGUEZ</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
